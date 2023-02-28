@@ -1,0 +1,24 @@
+{
+  "name": "contact_management_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runMain",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monika19494/contact_management_system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monika19494/contact_management_system/issues"
+  },
+  "homepage": "https://github.com/monika19494/contact_management_system#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react-router-dom": "^6.8.2",
+    "uuid": "^9.0.0"
+  }
+}
